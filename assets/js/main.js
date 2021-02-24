@@ -69,7 +69,7 @@ $(document).ready(function () {
     });
     var typed = new Typed('#typed', {
         stringsElement: null,
-        strings: ['Ketul Dave', 'second string'],
+        strings: ['Ketul Dave'],
         loop: true,
         loopCount: Infinity,
         typeSpeed: 100,
