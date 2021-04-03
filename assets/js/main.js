@@ -67,13 +67,4 @@ $(document).ready(function () {
             $(this).addClass('active');
         });
     });
-    var typed = new Typed('#typed', {
-        stringsElement: null,
-        strings: ['Ketul Dave','Ketul Dave'],
-        loop: true,
-        loopCount: Infinity,
-        typeSpeed: 100,
-        startDelay: 1000,
-        backSpeed: 100,
-    });
 });
